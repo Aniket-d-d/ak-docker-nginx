@@ -17,7 +17,7 @@ nginx-configuration.conf: An alternate Nginx configuration file. This file serve
 git clone https://github.com/Aniket-d-d/ak-docker-nginx.git
 cd ak-docker-nginx
 ```
-3. Get all the html pages and and its /images directory in VasecomProject directory.
+3. Get all the html pages and and its /images directory in [VasecomProject](https://github.com/Aniket-d-d/VasecomProject.git) directory.
 4. You are ready to build an Image and deploy it.
 5. Build the Docker Image:
 ```
